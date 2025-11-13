@@ -1,2 +1,8 @@
 # Discord_Bot-world-tree-
-개인서버용 디스코드 봇 개발을 위한 저장소입니다
+***
+## BOT_NAME : Misteltein
+## purpose : Personal Discord Serve
+## Developer : hollowman06, NaM0_Fruit
+***
+
+
